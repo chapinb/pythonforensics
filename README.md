@@ -17,3 +17,10 @@ http://continuum.io/downloads
 Once installed, launch IPython and browse to http://localhost:8888/
 
 Drag the IPython Notebook from the examples directory into the webpage to get started!
+
+# Additional Resources
+
+Check out these tools:
+- PyCharm IDE (The only one i use aside from notepad++)
+- Blog on additional Python Resources
+  - http://www.writeblocked.org/index.php/25-resources-for-learning-python-for-forensics.html
