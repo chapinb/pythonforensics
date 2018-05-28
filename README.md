@@ -20,10 +20,6 @@ A good starting point for those new to the Jupyter system. Has an introduction o
 
 This notebook introduces the [python-registry](https://github.com/williballenthin/python-registry) module and demonstrates how to interact with keys and values to extract useful information from the Windows Registry.
 
-#### Timelining
-
-This notebook is still in development
-
 ## Installation
 
 Install Python3 on your system and from the directory containing this `README.md` run the below. The notebooks use Python 3.5.1.
