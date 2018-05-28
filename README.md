@@ -8,9 +8,25 @@ This project was originally formed for a presentation on the usefulness of Pytho
 Forensic Tool. The code examples are free to use, modify and distribute under the
 GPLv2 Licence terms.
 
+### Notebooks
+
+Below is a summary of the notebooks developed in this repository
+
+#### Using Jupyter
+
+A good starting point for those new to the Jupyter system. Has an introduction on how to use the notebooks and resources for learning more about Python for those new to scripting.
+
+#### Registry
+
+This notebook introduces the [python-registry](https://github.com/williballenthin/python-registry) module and demonstrates how to interact with keys and values to extract useful information from the Windows Registry.
+
+#### Timelining
+
+This notebook is still in development
+
 ## Installation
 
-Install Python3 on your system and from the directory containing this `README.md` run:
+Install Python3 on your system and from the directory containing this `README.md` run the below. The notebooks use Python 3.5.1.
 
 ### On Windows
 
@@ -39,7 +55,8 @@ Once you run the `jupyter notebook` command above, your browser should open at [
 ## More Resources
 
 - [Learning Python for Forensics](https://amzn.to/2vm50YQ)
-- [Python Digital Forensics Cookbook](https://amzn.to/2qzxzMx)- [Blog on Python resources for Forensics](http://www.writeblocked.org/index.php/25-resources-for-learning-python-for-forensics.html)
+- [Python Digital Forensics Cookbook](https://amzn.to/2qzxzMx)
+- [Blog on Python resources for Forensics](http://www.writeblocked.org/index.php/25-resources-for-learning-python-for-forensics.html)
 
 ## Support
 
